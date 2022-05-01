@@ -52,7 +52,6 @@ blueprint:
         entity:
           integration: mqtt
           domain: sensor
-          multiple: false
     slide_face_0:
       name: Group 1 actions 🍎 Slide the cube with face 0 up
       description: Face 0 is the one with the 'Aqara' LOGO
